@@ -22,7 +22,7 @@
 int tocado;
 unsigned int fi=-1, co=-1;
 unsigned int arriba=1, abajo=0, izquierda=0, derecha=0;
-
+MAMA
 
 /* unsigned int partida_completa(char tablero_disparos[],
                                  unsigned int dim):
