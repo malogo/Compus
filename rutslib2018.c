@@ -16,7 +16,7 @@
 
 /* Declaracions "forward" */
 int enfonsat(int f, int c);
-
+mama
 char _default[][8] = {
     "...@@.@.",
     ".@......",
